@@ -13,7 +13,7 @@ The main text entry box at the top of the page is for new chat messages.  The te
 There is currently a permission error because the 30 days of open firebase permissions has expired.  This should be fixed by monday Feb 26, 2024.
 
 ## Contributing
-If you would like to contribute please reach out to me on our slack channel. This repository is what gets built with the `flutter build web` command and is exported content from this build folder.  The full repo is currently private 😞 ~sorry~
+If you would like to contribute please reach out to me on our slack channel. This repository is what gets built with the `flutter build web` command and is exported content from this build folder.  The full repo is currently private 😞 sorry
 
 ### Apologies !!
 This repository doesn't yet contain enough content to mandate a full readme but will improve in the future!
