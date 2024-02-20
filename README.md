@@ -1,5 +1,7 @@
 # Flutter Chat
 
+[Check out the Homepage](https://hotpocket.github.io/flutter_chat/)
+
 This is a fun attempt to learn flutter by writing a chat application.  The data store is firebase which holds the chat messages so multiple clients will see the same stream of conversation.
 
 
